@@ -1,6 +1,6 @@
 <?php
 
-$__relay__ = 'http://goagent.app.com/index.php';
+$__relay__ = 'https://goagent-php-bclswl.000webhostapp.com/index.php';
 $__hosts__ = array('goagent.app.com');
 $__timeout__ = 16;
 
