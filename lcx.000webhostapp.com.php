@@ -1,7 +1,7 @@
 <?php
 
-$__relay__ = 'thttp://goagent.app.com/index.php';
-$__hosts__ = array('goagent.app.com');
+$__relay__ = 'https://lcx.000webhostapp.com/index.php';
+$__hosts__ = array('lcx.000webhostapp.com');
 $__timeout__ = 16;
 
 
