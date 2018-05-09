@@ -1,9 +1,0 @@
-{
-  "require": {
-    "php": "7.1.12",
-    "ext-gd": "*",
-    "ext-mbstring": "*",
-    "ext-sqlite3": "*",
-    "ext-imagick": "*"
-  }
-}
