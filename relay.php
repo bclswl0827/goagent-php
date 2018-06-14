@@ -1,7 +1,7 @@
 <?php
 
-$__relay__ = 'https://example.com/index.php';
-$__hosts__ = array('example.com');
+$__relay__ = 'https://bclswl.herokuapp.com/index.php';
+$__hosts__ = array('bclswl.herokuapp.com');
 $__timeout__ = 16;
 
 
