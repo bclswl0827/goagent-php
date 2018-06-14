@@ -1,7 +1,7 @@
 <?php
 
-$__relay__ = 'https://lcx.000webhostapp.com/index.php';
-$__hosts__ = array('lcx.000webhostapp.com');
+$__relay__ = 'https://example.com/index.php';
+$__hosts__ = array('example.com');
 $__timeout__ = 16;
 
 
