@@ -1,6 +1,5 @@
 <?php
 
-
 $__version__  = '3.1.2';
 $__password__ = '123456';
 $__hostsdeny__ = array(); // $__hostsdeny__ = array('.youtube.com', '.youku.com');
