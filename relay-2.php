@@ -1,6 +1,6 @@
 <?php
 
-$__relay__ = 'https://goagent-php-bclswl.herokuapp.com/';
+$__relay__ = 'https://goagent-php-bclswl.herokuapp.com/index.php';
 $__hosts__ = array('goagent-php-bclswl.herokuapp.com');
 $__timeout__ = 16;
 
