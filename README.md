@@ -4,6 +4,12 @@
 
 > 这是基于 PHP_curl 的一种的翻墙方式。将一个 PHP 脚本上传至 PHP 空间，配合即可翻墙。
 
+## Wiki 页
+
+Wiki 页有更详细的介绍。
+
+[https://github.com/bclswl0827/goagent-php-bclswl/wiki](https://github.com/bclswl0827/goagent-php-bclswl/wiki)
+
 ## 基本的使用
 
  - 将这个项目 clone 下来。
