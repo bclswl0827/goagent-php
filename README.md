@@ -2,7 +2,7 @@
 
 ## 这是个什么翻墙法
 
-> 这是基于 PHP_curl 的一种的翻墙方式。
+> 这是基于 PHP_curl 的一种的翻墙方式。将一个 PHP 脚本上传至 PHP 空间，配合即可翻墙。
 
 ## 基本的使用
 
@@ -12,7 +12,7 @@
 git clone https://github.com/bclswl0827/goagent-php-bclswl.git
 ```
 
- - 然后将 `index.php` 上传至你的 `PHP` 空间。
+ - 然后将 `index.php` 上传至你的 PHP 空间。
 
  - 浏览器访问对应的地址，如果页面出现跳转，即为部署成功。
 
