@@ -22,7 +22,7 @@ git clone https://github.com/bclswl0827/goagent-php-bclswl.git
 
  - 浏览器访问对应的地址，如果页面出现跳转，即为部署成功。
 
- - 在 GoAgent 的本地配置文件 `proxy.ini` 中的 `[php]` 一项的 `fetchserver = ` 填入该地址。需要注意， `=` 后有一个空格号。
+ - 在 GoAgent 的本地配置文件 `proxy.ini` 中的 `[php]` 一项的 `enable = 0` 改为 `1`， `fetchserver = ` 填入该脚本地址。需要注意， `=` 后有一个空格号。
 
  - 以管理员身份运行 GoAgent ，记住程序所给出的本地代理地址，并将该地址配置在所需翻墙的软件上，即可翻墙。速度稳定在 1~2 Mbps 左右，可以轻松观看 YouTube 480P 视频。
 
