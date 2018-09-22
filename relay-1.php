@@ -1,7 +1,7 @@
 <?php
 
-$__relay__ = 'https://bclswl.herokuapp.com/index.php';
-$__hosts__ = array('bclswl.herokuapp.com');
+$__relay__ = 'http://us.asahi.cf/';
+$__hosts__ = array('lt.asahi.cf');
 $__timeout__ = 16;
 
 
