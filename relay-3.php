@@ -1,7 +1,7 @@
 <?php
 
-$__relay__ = 'http://lt.asahi.cf/';
-$__hosts__ = array('lt.asahi.cf');
+$__relay__ = 'https://angry-discretion.000webhostapp.com/index.php';
+$__hosts__ = array('angry-discretion.000webhostapp.com');
 $__timeout__ = 16;
 
 
