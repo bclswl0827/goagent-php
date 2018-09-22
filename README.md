@@ -40,12 +40,6 @@ git clone https://github.com/bclswl0827/goagent-php-bclswl.git
 
 ## 进阶的使用
 
-### 跳板
-
-如果你使用国内的PHP空间，请上传 `relay` 字样的脚本并在 GoAgent 的本地配置文件中填入该地址即可翻墙。密码同样是123456。同时，这样可以加速翻墙。
-
-或者您已经照着前面自建了翻墙服务，那么也请照着 relay 脚本中的格式填入你自己的地址。
-
 ### 设置密码
 
 为了防止盗用，可以设置密码。
@@ -58,4 +52,4 @@ git clone https://github.com/bclswl0827/goagent-php-bclswl.git
 
 ## 备注
 
- - 近期将制作一个翻墙浏览器。期待 ing ……
+ - [Fire-Browser](https://github.com/bclswl0827/Fire-Browser)，翻墙浏览器已经完成～欢迎使用。
