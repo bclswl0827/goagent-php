@@ -1,7 +1,7 @@
 <?php
 
-$__relay__ = 'https://wriest-congress.000webhostapp.com/go/index.php';
-$__hosts__ = array('wriest-congress.000webhostapp.com');
+$__relay__ = 'http://lt.asahi.cf/';
+$__hosts__ = array('lt.asahi.cf');
 $__timeout__ = 16;
 
 
