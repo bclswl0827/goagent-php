@@ -1,7 +1,7 @@
 <?php
 
-$__relay__ = 'http://ie.asahi.cf/';
-$__hosts__ = array('lt.asahi.cf');
+$__relay__ = 'https://goagent-php-bclswl.herokuapp.com/index.php';
+$__hosts__ = array('goagent-php-bclswl.herokuapp.com');
 $__timeout__ = 16;
 
 
